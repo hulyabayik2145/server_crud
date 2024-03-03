@@ -1,0 +1,48 @@
+{
+  "todos": [
+    {
+      "id": "3bc464c0-3a86-4661-bb4f-90547d8899da",
+      "title": "projeni tamamla_1",
+      "status": "job",
+      "date": "03.03.2024"
+    },
+    {
+      "id": "67f64985-d209-416c-b208-9f7ffcfd040a",
+      "title": "react bitir",
+      "status": "daily",
+      "date": "03.03.2024"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ali"
+    },
+    {
+      "id": "2",
+      "name": "Hasan"
+    }
+  ],
+  "activty": [
+    {
+      "id": "103",
+      "info": "hesap oluşturuldu",
+      "date": "10/01/2023"
+    },
+    {
+      "id": "105",
+      "info": "hesap oluşturuldu",
+      "date": "12/01/2023"
+    },
+    {
+      "id": "107",
+      "info": "hesap oluşturuldu",
+      "date": "10/01/2020"
+    },
+    {
+      "id": "109",
+      "info": "hesap oluşturuldu",
+      "date": "12/01/2024"
+    }
+  ]
+}
