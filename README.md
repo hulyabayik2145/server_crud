@@ -3,23 +3,23 @@
 Uygulama bir not alma uygulamasıdır, uygulama üzerinden not eklenebilir, eklenen not düzenlenebilir ve silinebilir.
 
 <h2>Kullanılan Teknolojiler </h2>
-React, Axios,Json Server ve Boostrap lütüphanesi kullanılmıştır.
+React, Axios,Json Server ve Boostrap kütüphanesi kullanılmıştır.
 
 <h2>Nasıl Kullanabilirim?</h2>
 
-# projeyi klonlayın
+1. projeyi klonlayın
 
 - git clone https://github.com/hulyabayik2145/server_crud.git
 
-# Proje klasörüne gidin
+2. Proje klasörüne gidin
 
 - cd 'klasörünüz'
 
-# Localdeki Server i başlatman için
+3. Localdeki Server i başlatmak için
 
 - npm run server
 
-# projeyi başlatmak için
+4. projeyi başlatmak için
 
 - npm run dev
 
